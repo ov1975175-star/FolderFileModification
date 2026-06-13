@@ -1,0 +1,2 @@
+python-telegram-bot==20.7
+UnityPy==1.10.7
